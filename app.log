@@ -1,0 +1,90 @@
+2024-01-20 16:00:29 [INFO]: Changing position mode to One-way ...
+2024-01-20 16:00:30 [INFO]: Already in One-way mode
+2024-01-20 16:00:31 [INFO]: Current USDT margin balance: 1240.7547908
+2024-01-20 16:00:31 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.182:80
+2024-01-20 16:00:31 [INFO]: [33mPress CTRL+C to quit[0m
+2024-01-20 19:02:18 [INFO]: Changing position mode to One-way ...
+2024-01-20 19:02:20 [INFO]: Already in One-way mode
+2024-01-20 19:02:21 [INFO]: Current USDT margin balance: 1228.63283489
+2024-01-20 19:02:21 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.182:80
+2024-01-20 19:02:21 [INFO]: [33mPress CTRL+C to quit[0m
+2024-01-20 19:02:40 [INFO]: #################### ALERT from tradingview: open long
+2024-01-20 19:08:12 [INFO]: Changing position mode to One-way ...
+2024-01-20 19:08:13 [INFO]: Already in One-way mode
+2024-01-20 19:08:13 [INFO]: Current USDT margin balance: 1231.31554109
+2024-01-20 19:08:13 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.182:80
+2024-01-20 19:08:13 [INFO]: [33mPress CTRL+C to quit[0m
+2024-01-20 19:08:22 [INFO]: #################### ALERT from tradingview: open long
+2024-01-20 19:08:26 [INFO]: current_status: no open positions
+2024-01-20 19:09:16 [INFO]: Changed leverage to: 2
+2024-01-20 19:09:17 [INFO]: Current USDT margin balance: 1233.1065762
+2024-01-20 19:09:53 [INFO]: coin_amount: 19.0
+2024-01-20 19:11:04 [INFO]: side: buy
+2024-01-20 19:11:04 [ERROR]: Error in execute_order -> APIError(code=-1117): Invalid side.
+2024-01-20 19:13:31 [INFO]: Changing position mode to One-way ...
+2024-01-20 19:13:32 [INFO]: Already in One-way mode
+2024-01-20 19:13:32 [INFO]: Current USDT margin balance: 1230.22599207
+2024-01-20 19:13:32 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.182:80
+2024-01-20 19:13:32 [INFO]: [33mPress CTRL+C to quit[0m
+2024-01-20 19:13:38 [INFO]: #################### ALERT from tradingview: open long
+2024-01-20 19:13:39 [INFO]: current_status: no open positions
+2024-01-20 19:13:42 [INFO]: Changed leverage to: 2
+2024-01-20 19:13:42 [INFO]: Current USDT margin balance: 1230.06414611
+2024-01-20 19:13:45 [INFO]: coin_amount: 19.0
+2024-01-20 19:13:46 [INFO]: side: BUY
+2024-01-20 19:13:58 [INFO]: {'orderId': 38329573173, 'symbol': 'ADAUSDT', 'status': 'FILLED', 'clientOrderId': '6hNad8qx5hQZNH3AQ2VhGF', 'price': '0.00000', 'avgPrice': '0.51130', 'origQty': '19', 'executedQty': '19', 'cumQuote': '9.71470', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00000', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'NONE', 'goodTillDate': 0, 'time': 1705763632217, 'updateTime': 1705763632217}
+2024-01-20 19:14:08 [INFO]: Current USDT margin balance: 1229.75253848
+2024-01-20 19:14:11 [INFO]: 127.0.0.1 - - [20/Jan/2024 19:14:11] "POST /tv_webbhook HTTP/1.1" 200 -
+2024-01-20 19:15:35 [INFO]: #################### ALERT from tradingview: open long
+2024-01-20 19:16:18 [INFO]: current_status: long opened
+2024-01-20 19:16:49 [INFO]: Expecting closing long positions alerts only. Skipping this alert.
+2024-01-20 19:17:16 [INFO]: 127.0.0.1 - - [20/Jan/2024 19:17:16] "POST /tv_webbhook HTTP/1.1" 200 -
+2024-01-20 19:17:23 [INFO]: #################### ALERT from tradingview: open short
+2024-01-20 19:17:24 [INFO]: current_status: long opened
+2024-01-20 19:17:43 [INFO]: Expecting closing long positions alerts only. Skipping this alert.
+2024-01-20 19:17:54 [INFO]: 127.0.0.1 - - [20/Jan/2024 19:17:54] "POST /tv_webbhook HTTP/1.1" 200 -
+2024-01-20 19:18:18 [INFO]: #################### ALERT from tradingview: close long
+2024-01-20 19:18:23 [INFO]: current_status: long opened
+2024-01-20 19:18:40 [INFO]: Changed leverage to: 2
+2024-01-20 19:18:41 [INFO]: Current USDT margin balance: 1230.5669612
+2024-01-20 19:19:38 [INFO]: coin_amount: 19.0
+2024-01-20 19:19:38 [INFO]: side: SELL
+2024-01-20 19:20:11 [INFO]: {'orderId': 38329669447, 'symbol': 'ADAUSDT', 'status': 'FILLED', 'clientOrderId': 'dmoK4XFLGbBBligEHOhQ35', 'price': '0.00000', 'avgPrice': '0.51160', 'origQty': '19', 'executedQty': '19', 'cumQuote': '9.72040', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00000', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'NONE', 'goodTillDate': 0, 'time': 1705764007776, 'updateTime': 1705764007776}
+2024-01-20 19:20:13 [INFO]: Current USDT margin balance: 1231.93081041
+2024-01-20 19:20:14 [INFO]: 127.0.0.1 - - [20/Jan/2024 19:20:14] "POST /tv_webbhook HTTP/1.1" 200 -
+2024-01-20 19:21:27 [INFO]: Changing position mode to One-way ...
+2024-01-20 19:21:57 [INFO]: Changing position mode to One-way ...
+2024-01-20 19:21:58 [INFO]: Already in One-way mode
+2024-01-20 19:21:58 [INFO]: Current USDT margin balance: 1232.82846265
+2024-01-20 19:21:58 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.182:80
+2024-01-20 19:21:58 [INFO]: [33mPress CTRL+C to quit[0m
+2024-01-20 19:22:05 [INFO]: #################### ALERT from tradingview: close long
+2024-01-20 19:22:11 [INFO]: long positions are disabled
+2024-01-20 19:22:11 [INFO]: 127.0.0.1 - - [20/Jan/2024 19:22:11] "POST /tv_webbhook HTTP/1.1" 200 -
+2024-01-20 19:22:23 [INFO]: Changing position mode to One-way ...
+2024-01-20 19:22:23 [INFO]: Already in One-way mode
+2024-01-20 19:22:24 [INFO]: Current USDT margin balance: 1233.41124361
+2024-01-20 19:22:24 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.0.182:80
+2024-01-20 19:22:24 [INFO]: [33mPress CTRL+C to quit[0m
+2024-01-20 19:22:29 [INFO]: #################### ALERT from tradingview: close long
+2024-01-20 19:22:35 [INFO]: current_status: no open positions
+2024-01-20 19:22:48 [INFO]: There is no open positions to close. Skipping this alert.
+2024-01-20 19:22:50 [INFO]: 127.0.0.1 - - [20/Jan/2024 19:22:50] "POST /tv_webbhook HTTP/1.1" 200 -
